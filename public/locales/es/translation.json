@@ -38,5 +38,7 @@
     "message_prompt": "Mensaje"
   },
   "errors": {
+    "browser_not_supported": "No compatible con este navegador",
+    "generic": "¡Algo salió mal!"
   }
 }
