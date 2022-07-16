@@ -36,5 +36,9 @@
         "change": "Change",
         "edit": "Edit",
         "message_prompt": "Message"
+    },
+        "errors": {
+        "browser_not_supported": "Not supported in this browser",
+        "generic": "Something went wrong!"
     }
 }
