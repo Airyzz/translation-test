@@ -1,0 +1,42 @@
+{
+  "common": {
+    "close": "Cerca",
+    "open": "Abierto",
+    "leave": "Abandonar",
+    "options": "Opciones",
+    "source_code": "Código fuente",
+    "sponsor": "Apoyo",
+    "retry": "Rever",
+    "delete": "Borrar",
+    "continue": "Continuar",
+    "cancel": "Cancelar",
+    "save": "Ahorrar",
+    "view_more": "Ver más",
+    "view_less": "ver menos",
+    "copy": "Copiar",
+    "upload": "Subir",
+    "download": "Descargar",
+    "or": "O",
+    "reset": "Reiniciar",
+    "setup": "Configuración",
+    "search": "Búsqueda",
+    "loading": "Cargando...",
+    "joining": "Unión...",
+    "join": "Unirse",
+    "remove": "Remover",
+    "send": "Enviar",
+    "homeserver": "servidor doméstico",
+    "invite": "Invitar",
+    "uninvite": "no invitar",
+    "invited": "Invitado",
+    "inviting": "Atractivo...",
+    "uninviting": "No atractivo...",
+    "change": "Cambio",
+    "edit": "Editar",
+    "message_prompt": "Mensaje"
+  },
+  "errors": {
+    "browser_not_supported": "No compatible con este navegador",
+    "generic": "¡Algo salió mal!"
+  }
+}
