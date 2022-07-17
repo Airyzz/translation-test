@@ -5,4 +5,4 @@
 [![gitlocalized ](https://gitlocalize.com/repo/7685/es/badge.svg)](https://gitlocalize.com/repo/7685/es?utm_source=badge)
 [![gitlocalized ](https://gitlocalize.com/repo/7685/fr/badge.svg)](https://gitlocalize.com/repo/7685/fr?utm_source=badge)
 
-A test project to play around with [GitLocalize](https://gitlocalize.com/)
+A test project to play around with [GitLocalize](https://gitlocalize.com/) and [Crowdin](https://crowdin.com/) 
